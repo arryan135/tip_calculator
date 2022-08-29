@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "b618a6d437c11723d4ae648b9c14a10c"
+build_time: [1661733727, 437705000]
+inputs:
+  "/Users/arryanmalik135/Desktop/prework/prework/ViewController.swift": [1661732472, 156404522]
+  "/Users/arryanmalik135/Desktop/prework/prework/KepPadUI.swift": [1661733715, 550217294]
+  "/Users/arryanmalik135/Desktop/prework/prework/AppDelegate.swift": [1661730674, 347892538]
+  "/Users/arryanmalik135/Desktop/prework/prework/SceneDelegate.swift": [1661730674, 363847255]
