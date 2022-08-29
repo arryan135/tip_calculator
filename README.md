@@ -3,9 +3,9 @@
 **Description:** an iOS application built using Swift and XCode that calculates tips.
 
 ## The applications supports the following features
-* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the respective tip value and total cost.
 * [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
-* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Remembering the bill amount across app restarts (if application restarts within 10 minutes)
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 * [x] The app incorporates UI animations
 
